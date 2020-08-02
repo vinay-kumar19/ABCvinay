@@ -6,6 +6,7 @@ public class Ayu {
 		// TODO Auto-generated method s
 		System.out.println("Ayu123");
 		System.out.println("Ayu1234");
+		System.out.println("Ayu12345");
 	}
 
 }
