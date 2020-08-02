@@ -7,7 +7,8 @@ public class Ayu {
 		System.out.println("Ayu123");
 		System.out.println("Ayu1234");
 		System.out.println("Ayu12345");
-		System.out.println("commit");
+		System.out.println("Ayu123456");
+		System.out.println("Commit");
 	}
 
 }
