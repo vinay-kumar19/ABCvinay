@@ -6,6 +6,5 @@ public class Ayu {
 		System.out.println("Ayu123");
 		System.out.println("Ayu124");
 		System.out.println("Ayu125");
-		System.out.println("COMMIT");
 	}
 }
